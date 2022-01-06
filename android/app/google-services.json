@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995659186502",
+    "firebase_url": "https://test-pod-53b2a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-pod-53b2a",
+    "storage_bucket": "test-pod-53b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995659186502:android:96e8427e142b6b9240a547",
+        "android_client_info": {
+          "package_name": "com.example.skor_pod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995659186502-kop9h9g5g6adgqfdno0lfot4jqi2rusb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBQ945MFO2NsMOuL4FnRie_FzJnc9feU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995659186502-kop9h9g5g6adgqfdno0lfot4jqi2rusb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995659186502-8bddm2s99mbhe1eak3t4lv24ap4lq12k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testPod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
